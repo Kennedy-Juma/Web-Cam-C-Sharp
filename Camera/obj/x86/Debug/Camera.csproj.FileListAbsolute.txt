@@ -1,0 +1,50 @@
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\Camera Record.exe
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\Camera Record.pdb
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Controls.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Fuzzy.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Genetic.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.Formats.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.MachineLearning.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Math.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Neuro.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.Lego.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.Surveyor.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.TeRK.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.DirectShow.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.FFMPEG.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.Kinect.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.VFW.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.Ximea.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Vision.dll
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Controls.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Fuzzy.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Genetic.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.Formats.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.MachineLearning.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Math.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Neuro.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.Lego.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.Surveyor.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Robotics.TeRK.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.DirectShow.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.FFMPEG.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.Kinect.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.VFW.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.Ximea.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\bin\Debug\AForge.Vision.xml
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera.csproj.AssemblyReference.cache
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera_Record.Form1.resources
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera_Record.Properties.Resources.resources
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera.csproj.GenerateResource.cache
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera.csproj.CoreCompileInputs.cache
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera.csproj.CopyComplete
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.exe
+D:\dotnet-csharp-master\dotnet-csharp-master\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.pdb
